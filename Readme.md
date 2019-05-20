@@ -1,4 +1,4 @@
-                   A SIMPLE TODO-APP WITH JQUERY
+                     A SIMPLE TODO-APP WITH JQUERY
 
 
 The project files include:
@@ -10,9 +10,8 @@ The project files include:
 
 
 USAGE
-
-[x] clone the repository
-[x] open the test.html file in your favorite browser
-[x] Add todos by typing into the input box and click the add button
-[x] Remove todos by clicking the "x" button
+- [x] clone the repository
+- [x] open the test.html file in your favorite browser
+- [x] Add todos by typing into the input box and click the add button
+- [x] Remove todos by clicking the "x" button
 
